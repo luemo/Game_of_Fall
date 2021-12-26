@@ -1,0 +1,486 @@
+ allegro
+
+ Timestamp is 4d370950 (Wed Jan 19 23:54:56 2011)
+
+ Preferred load address is 00400000
+
+ Start         Length     Name                   Class
+ 0001:00000000 000087d4H .text                   CODE
+ 0002:00000000 00000974H .rdata                  DATA
+ 0002:00000974 00000000H .edata                  DATA
+ 0003:00000000 00000004H .CRT$XCA                DATA
+ 0003:00000004 00000004H .CRT$XCZ                DATA
+ 0003:00000008 00000004H .CRT$XIA                DATA
+ 0003:0000000c 00000004H .CRT$XIZ                DATA
+ 0003:00000010 00000004H .data                   DATA
+ 0003:00000014 000002acH .bss                    DATA
+ 0004:00000000 0000003cH .idata$2                DATA
+ 0004:0000003c 00000014H .idata$3                DATA
+ 0004:00000050 000000dcH .idata$4                DATA
+ 0004:0000012c 000000dcH .idata$5                DATA
+ 0004:00000208 0000016cH .idata$6                DATA
+
+  Address         Publics by Value              Rva+Base     Lib:Object
+
+ 0001:00000000       ?_mangled_main@@YAHXZ      00401000 f   ADG.obj
+ 0001:000010a0       _WinMain@16                004020a0 f   ADG.obj
+ 0001:00001100       ?boy_to_left@@YA?CHH@Z     00402100 f   ADG.obj
+ 0001:00001450       ?chap1@@YAHH@Z             00402450 f   ADG.obj
+ 0001:00001630       ?only_b@@YAHH@Z            00402630 f   ADG.obj
+ 0001:000017e0       ?only_g@@YAHH@Z            004027e0 f   ADG.obj
+ 0001:00001980       ?class_r@@YAHH@Z           00402980 f   ADG.obj
+ 0001:00001b00       ?class_r2@@YAHH@Z          00402b00 f   ADG.obj
+ 0001:00001d00       ?saten@@YAHH@Z             00402d00 f   ADG.obj
+ 0001:00001ed0       ?saten2@@YAHH@Z            00402ed0 f   ADG.obj
+ 0001:00002040       ?saten3@@YAHH@Z            00403040 f   ADG.obj
+ 0001:00002220       ?saten4@@YAHH@Z            00403220 f   ADG.obj
+ 0001:000023f0       ?saten5@@YAHH@Z            004033f0 f   ADG.obj
+ 0001:000025d0       ?ChangFace@@YAXHHH@Z       004035d0 f   ADG.obj
+ 0001:00003180       ?PutFace@@YAXXZ            00404180 f   ADG.obj
+ 0001:000033e0       ?Start@@YAXXZ              004043e0 f   ADG.obj
+ 0001:000034d0       ?GirlMove@@YAHHHHH@Z       004044d0 f   ADG.obj
+ 0001:000036e0       ?BoyMove@@YAHHHHH@Z        004046e0 f   ADG.obj
+ 0001:000038f0       ?appear@@YAHHHH@Z          004048f0 f   ADG.obj
+ 0001:00003c70       ?SixForOther@@YAHHHH@Z     00404c70 f   ADG.obj
+ 0001:00003ec0       ?BleakColor@@YAXXZ         00404ec0 f   ADG.obj
+ 0001:00004000       ?ChooseToStory@@YAHH@Z     00405000 f   ADG.obj
+ 0001:00004260       ?Chap_Four@@YAHXZ          00405260 f   ADG.obj
+ 0001:00004460       ?Chap_Four_One@@YAHXZ      00405460 f   ADG.obj
+ 0001:00004750       ?Chap_Four_Two@@YAHXZ      00405750 f   ADG.obj
+ 0001:00004b70       ?Chap_Four_Three@@YAHXZ    00405b70 f   ADG.obj
+ 0001:00004ed0       ?Chap_Fifth@@YAHXZ         00405ed0 f   ADG.obj
+ 0001:00005340       ?Chap_Fifth_One@@YAHXZ     00406340 f   ADG.obj
+ 0001:00005630       ?Chap_Fifth_Two@@YAHXZ     00406630 f   ADG.obj
+ 0001:00005a40       ?Chap_Fifth_Three@@YAHXZ   00406a40 f   ADG.obj
+ 0001:00005dc0       ?Chap_Sixth@@YAHXZ         00406dc0 f   ADG.obj
+ 0001:00006320       ?Chap_Sixth_One@@YAHXZ     00407320 f   ADG.obj
+ 0001:00006660       ?Chap_Sixth_Two@@YAHXZ     00407660 f   ADG.obj
+ 0001:00006980       ?Chap_Sixth_Three@@YAHXZ   00407980 f   ADG.obj
+ 0001:00006ca0       ?Chap_Seven@@YAHHH@Z       00407ca0 f   ADG.obj
+ 0001:000075a0       ?Print_words@@YAHHHHHH@Z   004085a0 f   ADG.obj
+ 0001:00007740       ?init_Cfont@@YAHXZ         00408740 f   Cfont.obj
+ 0001:00007810       ?ASK_NUM_PIC@@YAPAUBITMAP@@XZ 00408810 f   Cfont.obj
+ 0001:00007840       ?load_Cfont@@YAHXZ         00408840 f   Cfont.obj
+ 0001:000079a0       ?print_cfont@@YAHPAUBITMAP@@HHHHHH@Z 004089a0 f   Cfont.obj
+ 0001:00007a40       ?print_to_buffer@@YAHH@Z   00408a40 f   Cfont.obj
+ 0001:00007f80       ?load_txt@@YAHXZ           00408f80 f   Cfont.obj
+ 0001:00008190       ?num_chk@@YAHXZ            00409190 f   Cfont.obj
+ 0001:000082c0       ?line_chk@@YAHXZ           004092c0 f   Cfont.obj
+ 0001:00008470       ?close_Cfont@@YAHXZ        00409470 f   Cfont.obj
+ 0001:00008504       _allegro_exit              00409504 f   allp:allp42.dll
+ 0001:0000850a       _destroy_sample            0040950a f   allp:allp42.dll
+ 0001:00008510       _destroy_bitmap            00409510 f   allp:allp42.dll
+ 0001:00008516       _readkey                   00409516 f   allp:allp42.dll
+ 0001:0000851c       _stop_sample               0040951c f   allp:allp42.dll
+ 0001:00008522       _play_sample               00409522 f   allp:allp42.dll
+ 0001:00008528       _blit                      00409528 f   allp:allp42.dll
+ 0001:0000852e       _load_sample               0040952e f   allp:allp42.dll
+ 0001:00008534       _load_bitmap               00409534 f   allp:allp42.dll
+ 0001:0000853a       _create_bitmap             0040953a f   allp:allp42.dll
+ 0001:00008540       _set_gfx_mode              00409540 f   allp:allp42.dll
+ 0001:00008546       _set_color_depth           00409546 f   allp:allp42.dll
+ 0001:0000854c       _install_sound             0040954c f   allp:allp42.dll
+ 0001:00008552       _install_keyboard          00409552 f   allp:allp42.dll
+ 0001:00008558       __install_allegro_version_check 00409558 f   allp:allp42.dll
+ 0001:0000855e       __WinMain                  0040955e f   allp:allp42.dll
+ 0001:00008564       _clear_bitmap              00409564 f   allp:allp42.dll
+ 0001:0000856a       _clear_to_color            0040956a f   allp:allp42.dll
+ 0001:00008570       _makecol                   00409570 f   allp:allp42.dll
+ 0001:00008576       _create_bitmap_ex          00409576 f   allp:allp42.dll
+ 0001:0000857c       _load_font                 0040957c f   allp:allp42.dll
+ 0001:00008582       _masked_blit               00409582 f   allp:allp42.dll
+ 0001:00008588       _textprintf_ex             00409588 f   allp:allp42.dll
+ 0001:0000858e       __errno                    0040958e f   MSVCRT:MSVCRT.dll
+ 0001:00008594       __onexit                   00409594 f   MSVCRT:atonexit.obj
+ 0001:000085c0       _atexit                    004095c0 f   MSVCRT:atonexit.obj
+ 0001:000085d2       __chkesp                   004095d2 f   MSVCRT:MSVCRT.dll
+ 0001:000085d8       _fopen                     004095d8 f   MSVCRT:MSVCRT.dll
+ 0001:000085de       _fseek                     004095de f   MSVCRT:MSVCRT.dll
+ 0001:000085e4       _fscanf                    004095e4 f   MSVCRT:MSVCRT.dll
+ 0001:000085ea       _scanf                     004095ea f   MSVCRT:MSVCRT.dll
+ 0001:000085f0       _pow                       004095f0 f   MSVCRT:MSVCRT.dll
+ 0001:00008600       __ftol                     00409600 f   MSVCRT:MSVCRT.dll
+ 0001:00008606       _fclose                    00409606 f   MSVCRT:MSVCRT.dll
+ 0001:0000860c       _WinMainCRTStartup         0040960c f   MSVCRT:crtexew.obj
+ 0001:0000876a       ___dllonexit               0040976a f   MSVCRT:MSVCRT.dll
+ 0001:00008770       __exit                     00409770 f   MSVCRT:MSVCRT.dll
+ 0001:00008776       __XcptFilter               00409776 f   MSVCRT:MSVCRT.dll
+ 0001:0000877c       _exit                      0040977c f   MSVCRT:MSVCRT.dll
+ 0001:00008782       ___getmainargs             00409782 f   MSVCRT:MSVCRT.dll
+ 0001:00008788       __initterm                 00409788 f   MSVCRT:MSVCRT.dll
+ 0001:0000878e       __setdefaultprecision      0040978e f   MSVCRT:fp8.obj
+ 0001:000087a0       ___setusermatherr          004097a0 f   MSVCRT:MSVCRT.dll
+ 0001:000087a6       __matherr                  004097a6 f   MSVCRT:merr.obj
+ 0001:000087a9       __setargv                  004097a9 f   MSVCRT:dllargv.obj
+ 0001:000087aa       ___p__commode              004097aa f   MSVCRT:MSVCRT.dll
+ 0001:000087b0       ___p__fmode                004097b0 f   MSVCRT:MSVCRT.dll
+ 0001:000087b6       ___set_app_type            004097b6 f   MSVCRT:MSVCRT.dll
+ 0001:000087bc       __except_handler3          004097bc f   MSVCRT:MSVCRT.dll
+ 0001:000087c2       __controlfp                004097c2 f   MSVCRT:MSVCRT.dll
+ 0001:000087c8       _GetModuleHandleA@4        004097c8 f   kernel32:KERNEL32.dll
+ 0001:000087ce       _GetStartupInfoA@4         004097ce f   kernel32:KERNEL32.dll
+ 0002:0000001c       ??_C@_0O@OHCK@VOICE?17?95?4wav?$AA@ 0040a01c     ADG.obj
+ 0002:0000002c       ??_C@_0O@EHAP@VOICE?17?94?4wav?$AA@ 0040a02c     ADG.obj
+ 0002:0000003c       ??_C@_0O@CHPF@VOICE?17?93?4wav?$AA@ 0040a03c     ADG.obj
+ 0002:0000004c       ??_C@_0O@IHNA@VOICE?17?92?4wav?$AA@ 0040a04c     ADG.obj
+ 0002:0000005c       ??_C@_0O@GHLP@VOICE?17?91?4wav?$AA@ 0040a05c     ADG.obj
+ 0002:0000006c       ??_C@_0M@KNMJ@VOICE?17?4wav?$AA@ 0040a06c     ADG.obj
+ 0002:00000078       ??_C@_0O@JGA@VOICE?16?93?4wav?$AA@ 0040a078     ADG.obj
+ 0002:00000088       ??_C@_0O@KJEF@VOICE?16?92?4wav?$AA@ 0040a088     ADG.obj
+ 0002:00000098       ??_C@_0O@EJCK@VOICE?16?91?4wav?$AA@ 0040a098     ADG.obj
+ 0002:000000a8       ??_C@_0M@NOM@VOICE?16?4wav?$AA@ 0040a0a8     ADG.obj
+ 0002:000000b4       ??_C@_0O@LKAB@VOICE?15?95?4wav?$AA@ 0040a0b4     ADG.obj
+ 0002:000000c4       ??_C@_0O@BKCE@VOICE?15?94?4wav?$AA@ 0040a0c4     ADG.obj
+ 0002:000000d4       ??_C@_0O@HKNO@VOICE?15?93?4wav?$AA@ 0040a0d4     ADG.obj
+ 0002:000000e4       ??_C@_0O@NKPL@VOICE?15?92?4wav?$AA@ 0040a0e4     ADG.obj
+ 0002:000000f4       ??_C@_0O@DKJE@VOICE?15?91?4wav?$AA@ 0040a0f4     ADG.obj
+ 0002:00000104       ??_C@_0M@ONID@VOICE?15?4wav?$AA@ 0040a104     ADG.obj
+ 0002:00000110       ??_C@_0O@DELB@VOICE?14?94?4wav?$AA@ 0040a110     ADG.obj
+ 0002:00000120       ??_C@_0O@FEEL@VOICE?14?93?4wav?$AA@ 0040a120     ADG.obj
+ 0002:00000130       ??_C@_0O@PEGO@VOICE?14?92?4wav?$AA@ 0040a130     ADG.obj
+ 0002:00000140       ??_C@_0O@BEAB@VOICE?14?91?4wav?$AA@ 0040a140     ADG.obj
+ 0002:00000150       ??_C@_0M@ENKG@VOICE?14?4wav?$AA@ 0040a150     ADG.obj
+ 0002:0000015c       ??_C@_0BA@PDAF@Cube_Choose?4bmp?$AA@ 0040a15c     ADG.obj
+ 0002:0000016c       ??_C@_0BA@IGIG@Hand_Choose?4bmp?$AA@ 0040a16c     ADG.obj
+ 0002:0000017c       ??_C@_0O@CKCK@MAP?1Bleak?4bmp?$AA@ 0040a17c     ADG.obj
+ 0002:0000018c       ??_C@_0BK@MPBD@CHARACTER?1Boy3?1No?43?97?4bmp?$AA@ 0040a18c     ADG.obj
+ 0002:000001a8       ??_C@_0BK@IMGM@CHARACTER?1Boy2?1No?42?97?4bmp?$AA@ 0040a1a8     ADG.obj
+ 0002:000001c4       ??_C@_0BK@EJON@CHARACTER?1Boy1?1No?41?97?4bmp?$AA@ 0040a1c4     ADG.obj
+ 0002:000001e0       ??_C@_0BM@MIDH@CHARACTER?1Boy3?1No?43?96?42?4bmp?$AA@ 0040a1e0     ADG.obj
+ 0002:000001fc       ??_C@_0BM@KKCO@CHARACTER?1Boy2?1No?42?96?42?4bmp?$AA@ 0040a1fc     ADG.obj
+ 0002:00000218       ??_C@_0BM@MAF@CHARACTER?1Boy1?1No?41?96?42?4bmp?$AA@ 0040a218     ADG.obj
+ 0002:00000234       ??_C@_0BM@CIFI@CHARACTER?1Boy3?1No?43?96?41?4bmp?$AA@ 0040a234     ADG.obj
+ 0002:00000250       ??_C@_0BM@EKEB@CHARACTER?1Boy2?1No?42?96?41?4bmp?$AA@ 0040a250     ADG.obj
+ 0002:0000026c       ??_C@_0BM@OMGK@CHARACTER?1Boy1?1No?41?96?41?4bmp?$AA@ 0040a26c     ADG.obj
+ 0002:00000288       ??_C@_0BK@IPFJ@CHARACTER?1Boy3?1No?43?95?4bmp?$AA@ 0040a288     ADG.obj
+ 0002:000002a4       ??_C@_0BK@MMCG@CHARACTER?1Boy2?1No?42?95?4bmp?$AA@ 0040a2a4     ADG.obj
+ 0002:000002c0       ??_C@_0BK@JKH@CHARACTER?1Boy1?1No?41?95?4bmp?$AA@ 0040a2c0     ADG.obj
+ 0002:000002dc       ??_C@_0BK@CPHM@CHARACTER?1Boy3?1No?43?94?4bmp?$AA@ 0040a2dc     ADG.obj
+ 0002:000002f8       ??_C@_0BK@GMAD@CHARACTER?1Boy2?1No?42?94?4bmp?$AA@ 0040a2f8     ADG.obj
+ 0002:00000314       ??_C@_0BK@KJIC@CHARACTER?1Boy1?1No?41?94?4bmp?$AA@ 0040a314     ADG.obj
+ 0002:00000330       ??_C@_0BG@GEBN@CHARACTER?1Other?1C?4bmp?$AA@ 0040a330     ADG.obj
+ 0002:00000348       ??_C@_0BG@MEDI@CHARACTER?1Other?1B?4bmp?$AA@ 0040a348     ADG.obj
+ 0002:00000360       ??_C@_0BG@CEFH@CHARACTER?1Other?1A?4bmp?$AA@ 0040a360     ADG.obj
+ 0002:00000378       ??_C@_0BP@LCNB@CHARACTER?1Other?1Girl_For_4?4bmp?$AA@ 0040a378     ADG.obj
+ 0002:00000398       ??_C@_0BK@BBFD@CHARACTER?1Girl?1Girl?97?4bmp?$AA@ 0040a398     ADG.obj
+ 0002:000003b4       ??_C@_0BM@NDIP@CHARACTER?1Girl?1Girl?96?42?4bmp?$AA@ 0040a3b4     ADG.obj
+ 0002:000003d0       ??_C@_0BM@DDOA@CHARACTER?1Girl?1Girl?96?41?4bmp?$AA@ 0040a3d0     ADG.obj
+ 0002:000003ec       ??_C@_0BK@FBBJ@CHARACTER?1Girl?1Girl?95?4bmp?$AA@ 0040a3ec     ADG.obj
+ 0002:00000408       ??_C@_0BK@PBDM@CHARACTER?1Girl?1Girl?94?4bmp?$AA@ 0040a408     ADG.obj
+ 0002:00000424       ??_C@_0BA@EHAK@MAP?1MAP?97?94?4bmp?$AA@ 0040a424     ADG.obj
+ 0002:00000434       ??_C@_0BA@CHPA@MAP?1MAP?97?93?4bmp?$AA@ 0040a434     ADG.obj
+ 0002:00000444       ??_C@_0BA@IHNF@MAP?1MAP?97?92?4bmp?$AA@ 0040a444     ADG.obj
+ 0002:00000454       ??_C@_0BA@GHLK@MAP?1MAP?97?91?4bmp?$AA@ 0040a454     ADG.obj
+ 0002:00000464       ??_C@_0O@ONLK@MAP?1MAP?97?4bmp?$AA@ 0040a464     ADG.obj
+ 0002:00000474       ??_C@_0BA@JGF@MAP?1MAP?96?93?4bmp?$AA@ 0040a474     ADG.obj
+ 0002:00000484       ??_C@_0BA@KJEA@MAP?1MAP?96?92?4bmp?$AA@ 0040a484     ADG.obj
+ 0002:00000494       ??_C@_0BA@EJCP@MAP?1MAP?96?91?4bmp?$AA@ 0040a494     ADG.obj
+ 0002:000004a4       ??_C@_0BC@GDCL@MAP?1MAP?95?93?92?4bmp?$AA@ 0040a4a4     ADG.obj
+ 0002:000004b8       ??_C@_0BC@IDEE@MAP?1MAP?95?93?91?4bmp?$AA@ 0040a4b8     ADG.obj
+ 0002:000004cc       ??_C@_0BA@NKPO@MAP?1MAP?95?92?4bmp?$AA@ 0040a4cc     ADG.obj
+ 0002:000004dc       ??_C@_0BA@DKJB@MAP?1MAP?95?91?4bmp?$AA@ 0040a4dc     ADG.obj
+ 0002:000004ec       ??_C@_0O@KNPA@MAP?1MAP?95?4bmp?$AA@ 0040a4ec     ADG.obj
+ 0002:000004fc       ??_C@_0BA@FEEO@MAP?1MAP?94?93?4bmp?$AA@ 0040a4fc     ADG.obj
+ 0002:0000050c       ??_C@_0BA@PEGL@MAP?1MAP?94?92?4bmp?$AA@ 0040a50c     ADG.obj
+ 0002:0000051c       ??_C@_0BA@BEAE@MAP?1MAP?94?91?4bmp?$AA@ 0040a51c     ADG.obj
+ 0002:0000052c       ??_C@_0O@NNF@MAP?1MAP?94?4bmp?$AA@ 0040a52c     ADG.obj
+ 0002:0000053c       ??_C@_0P@JANF@sound?1bell?4wav?$AA@ 0040a53c     ADG.obj
+ 0002:0000054c       ??_C@_0BA@OKEH@sound?1saten?4wav?$AA@ 0040a54c     ADG.obj
+ 0002:0000055c       ??_C@_0BA@ICOP@sound?1chime?4wav?$AA@ 0040a55c     ADG.obj
+ 0002:0000056c       ??_C@_0P@HEPE@sound?1door?4wav?$AA@ 0040a56c     ADG.obj
+ 0002:0000057c       ??_C@_0BB@KFJF@sound?1sawa04?4wav?$AA@ 0040a57c     ADG.obj
+ 0002:00000590       ??_C@_0BA@MDIN@image?1chap2?4bmp?$AA@ 0040a590     ADG.obj
+ 0002:000005a0       ??_C@_0BA@CDOC@image?1chap1?4bmp?$AA@ 0040a5a0     ADG.obj
+ 0002:000005b0       ??_C@_0P@LDIN@image?1line?4bmp?$AA@ 0040a5b0     ADG.obj
+ 0002:000005c0       ??_C@_0N@MPIF@image?1As?4bmp?$AA@ 0040a5c0     ADG.obj
+ 0002:000005d0       ??_C@_0N@DIHL@image?1B1?4bmp?$AA@ 0040a5d0     ADG.obj
+ 0002:000005e0       ??_C@_0BB@CJEO@image?1saten2?4bmp?$AA@ 0040a5e0     ADG.obj
+ 0002:000005f4       ??_C@_0BA@IAFA@image?1saten?4bmp?$AA@ 0040a5f4     ADG.obj
+ 0002:00000604       ??_C@_0BA@PEKG@image?1class?4bmp?$AA@ 0040a604     ADG.obj
+ 0002:00000614       ??_C@_0BA@CMAP@image?1rouka?4bmp?$AA@ 0040a614     ADG.obj
+ 0002:00000624       ??_C@_0BC@JEDC@Face?1Other?1fc?4bmp?$AA@ 0040a624     ADG.obj
+ 0002:00000638       ??_C@_0BC@DEBH@Face?1Other?1fb?4bmp?$AA@ 0040a638     ADG.obj
+ 0002:0000064c       ??_C@_0BC@NEHI@Face?1Other?1fa?4bmp?$AA@ 0040a64c     ADG.obj
+ 0002:00000660       ??_C@_0BL@FFJK@Face?1Other?1fgirl_for_4?4bmp?$AA@ 0040a660     ADG.obj
+ 0002:0000067c       ??_C@_0BG@BDJC@Face?1Boy3?1fno?43?97?4bmp?$AA@ 0040a67c     ADG.obj
+ 0002:00000694       ??_C@_0BG@GMGK@Face?1Boy2?1fno?42?97?4bmp?$AA@ 0040a694     ADG.obj
+ 0002:000006ac       ??_C@_0BG@OMGC@Face?1Boy1?1fno?41?97?4bmp?$AA@ 0040a6ac     ADG.obj
+ 0002:000006c4       ??_C@_0BG@MNLM@Face?1Girl?1fgirl?97?4bmp?$AA@ 0040a6c4     ADG.obj
+ 0002:000006dc       ??_C@_0BI@HPFP@Face?1Boy3?1fno?43?96?42?4bmp?$AA@ 0040a6dc     ADG.obj
+ 0002:000006f4       ??_C@_0BI@HPLH@Face?1Boy2?1fno?42?96?42?4bmp?$AA@ 0040a6f4     ADG.obj
+ 0002:0000070c       ??_C@_0BI@HOIP@Face?1Boy1?1fno?41?96?42?4bmp?$AA@ 0040a70c     ADG.obj
+ 0002:00000724       ??_C@_0BI@GIJM@Face?1Girl?1fgirl?96?42?4bmp?$AA@ 0040a724     ADG.obj
+ 0002:0000073c       ??_C@_0BI@JPDA@Face?1Boy3?1fno?43?96?41?4bmp?$AA@ 0040a73c     ADG.obj
+ 0002:00000754       ??_C@_0BI@JPNI@Face?1Boy2?1fno?42?96?41?4bmp?$AA@ 0040a754     ADG.obj
+ 0002:0000076c       ??_C@_0BI@JOOA@Face?1Boy1?1fno?41?96?41?4bmp?$AA@ 0040a76c     ADG.obj
+ 0002:00000784       ??_C@_0BI@IIPD@Face?1Girl?1fgirl?96?41?4bmp?$AA@ 0040a784     ADG.obj
+ 0002:0000079c       ??_C@_0BG@FDNI@Face?1Boy3?1fno?43?95?4bmp?$AA@ 0040a79c     ADG.obj
+ 0002:000007b4       ??_C@_0BG@CMCA@Face?1Boy2?1fno?42?95?4bmp?$AA@ 0040a7b4     ADG.obj
+ 0002:000007cc       ??_C@_0BG@KMCI@Face?1Boy1?1fno?41?95?4bmp?$AA@ 0040a7cc     ADG.obj
+ 0002:000007e4       ??_C@_0BG@INPG@Face?1Girl?1fgirl?95?4bmp?$AA@ 0040a7e4     ADG.obj
+ 0002:000007fc       ??_C@_0BG@PDPN@Face?1Boy3?1fno?43?94?4bmp?$AA@ 0040a7fc     ADG.obj
+ 0002:00000814       ??_C@_0BG@IMAF@Face?1Boy2?1fno?42?94?4bmp?$AA@ 0040a814     ADG.obj
+ 0002:0000082c       ??_C@_0BG@MAN@Face?1Boy1?1fno?41?94?4bmp?$AA@ 0040a82c     ADG.obj
+ 0002:00000844       ??_C@_0BG@CNND@Face?1Girl?1fgirl?94?4bmp?$AA@ 0040a844     ADG.obj
+ 0002:0000085c       ??_C@_09LJJB@SPEAK?4bmp?$AA@ 0040a85c     ADG.obj
+ 0002:00000868       ??_C@_08MEJB@load?4txt?$AA@ 0040a868     Cfont.obj
+ 0002:00000874       ??_C@_02JKAF@rb?$AA@       0040a874     Cfont.obj
+ 0002:00000878       ??_C@_0BM@DCEG@?4?1Cfont?1Cfont_9000x9fa5?4bmp?$AA@ 0040a878     Cfont.obj
+ 0002:00000894       ??_C@_0BM@CIAL@?4?1Cfont?1Cfont_8000x8fff?4bmp?$AA@ 0040a894     Cfont.obj
+ 0002:000008b0       ??_C@_0BM@KMNI@?4?1Cfont?1Cfont_7000x7fff?4bmp?$AA@ 0040a8b0     Cfont.obj
+ 0002:000008cc       ??_C@_0BM@LFJL@?4?1Cfont?1Cfont_6000x6fff?4bmp?$AA@ 0040a8cc     Cfont.obj
+ 0002:000008e8       ??_C@_0BM@JOFO@?4?1Cfont?1Cfont_5000x5fff?4bmp?$AA@ 0040a8e8     Cfont.obj
+ 0002:00000904       ??_C@_0BM@EEAH@?4?1Cfont?1Cfont_4E00x4fff?4bmp?$AA@ 0040a904     Cfont.obj
+ 0002:00000920       ??_C@_0BB@FBHL@?4?1Cfont?1sign?4bmp?$AA@ 0040a920     Cfont.obj
+ 0002:00000934       ??_C@_0BD@GHDL@?4?1Cfont?1number?4bmp?$AA@ 0040a934     Cfont.obj
+ 0002:00000948       ??_C@_0BE@LEAM@?4?1Cfont?1mingliu?4PCX?$AA@ 0040a948     Cfont.obj
+ 0002:0000095c       ??_C@_02JBML@?$CFc?$AA@    0040a95c     Cfont.obj
+ 0002:00000960       ??_C@_04LKNH@?$CFc?$CFc?$AA@ 0040a960     Cfont.obj
+ 0003:00000000       ___xc_a                    0040b000     MSVCRT:cinitexe.obj
+ 0003:00000004       ___xc_z                    0040b004     MSVCRT:cinitexe.obj
+ 0003:00000008       ___xi_a                    0040b008     MSVCRT:cinitexe.obj
+ 0003:0000000c       ___xi_z                    0040b00c     MSVCRT:cinitexe.obj
+ 0003:00000010       ___defaultmatherr          0040b010     MSVCRT:merr.obj
+ 0003:00000014       ?BigMap_4_1@@3PAUBITMAP@@A 0040b014     ADG.obj
+ 0003:00000018       ?FaceG1_6_2@@3PAUBITMAP@@A 0040b018     ADG.obj
+ 0003:0000001c       ?BigMap_4_2@@3PAUBITMAP@@A 0040b01c     ADG.obj
+ 0003:00000020       ?FaceG1_6_1@@3PAUBITMAP@@A 0040b020     ADG.obj
+ 0003:00000024       ?BigMap_4_3@@3PAUBITMAP@@A 0040b024     ADG.obj
+ 0003:00000028       ?BigMap_5_1@@3PAUBITMAP@@A 0040b028     ADG.obj
+ 0003:0000002c       ?BigMap_5_2@@3PAUBITMAP@@A 0040b02c     ADG.obj
+ 0003:00000030       ?BigMap_6_1@@3PAUBITMAP@@A 0040b030     ADG.obj
+ 0003:00000034       ?BigMap_6_2@@3PAUBITMAP@@A 0040b034     ADG.obj
+ 0003:00000038       ?BigMap_6_3@@3PAUBITMAP@@A 0040b038     ADG.obj
+ 0003:0000003c       ?BigMap_7_1@@3PAUBITMAP@@A 0040b03c     ADG.obj
+ 0003:00000040       ?BigMap_7_4@@3PAUBITMAP@@A 0040b040     ADG.obj
+ 0003:00000044       ?BigMap_7_2@@3PAUBITMAP@@A 0040b044     ADG.obj
+ 0003:00000048       ?BigMap_7_3@@3PAUBITMAP@@A 0040b048     ADG.obj
+ 0003:0000004c       ?Girl1_5@@3PAUBITMAP@@A    0040b04c     ADG.obj
+ 0003:00000050       ?Girl1_4@@3PAUBITMAP@@A    0040b050     ADG.obj
+ 0003:00000054       ?Girl1_7@@3PAUBITMAP@@A    0040b054     ADG.obj
+ 0003:00000058       ?Boy1_6_2@@3PAUBITMAP@@A   0040b058     ADG.obj
+ 0003:0000005c       ?Boy1_6_1@@3PAUBITMAP@@A   0040b05c     ADG.obj
+ 0003:00000060       ?FaceB2_6_1@@3PAUBITMAP@@A 0040b060     ADG.obj
+ 0003:00000064       ?FaceB2_6_2@@3PAUBITMAP@@A 0040b064     ADG.obj
+ 0003:00000068       ?FaceG1_5@@3PAUBITMAP@@A   0040b068     ADG.obj
+ 0003:0000006c       ?FaceG1_7@@3PAUBITMAP@@A   0040b06c     ADG.obj
+ 0003:00000070       ?FaceG1_4@@3PAUBITMAP@@A   0040b070     ADG.obj
+ 0003:00000074       ?boy@@3PAUBITMAP@@A        0040b074     ADG.obj
+ 0003:00000078       ?CubeChoose1@@3PAUBITMAP@@A 0040b078     ADG.obj
+ 0003:0000007c       ?Music4_4@@3PAUSAMPLE@@A   0040b07c     ADG.obj
+ 0003:00000080       ?Music4_3@@3PAUSAMPLE@@A   0040b080     ADG.obj
+ 0003:00000084       ?Music4_2@@3PAUSAMPLE@@A   0040b084     ADG.obj
+ 0003:00000088       ?Music4_1@@3PAUSAMPLE@@A   0040b088     ADG.obj
+ 0003:0000008c       ?chime@@3PAUSAMPLE@@A      0040b08c     ADG.obj
+ 0003:00000090       ?Boy2_6_2@@3PAUBITMAP@@A   0040b090     ADG.obj
+ 0003:00000094       ?Boy2_6_1@@3PAUBITMAP@@A   0040b094     ADG.obj
+ 0003:00000098       ?Music6_3@@3PAUSAMPLE@@A   0040b098     ADG.obj
+ 0003:0000009c       ?Music6_2@@3PAUSAMPLE@@A   0040b09c     ADG.obj
+ 0003:000000a0       ?Music6_1@@3PAUSAMPLE@@A   0040b0a0     ADG.obj
+ 0003:000000a4       ?FaceB1_6_1@@3PAUBITMAP@@A 0040b0a4     ADG.obj
+ 0003:000000a8       ?FaceB1_6_2@@3PAUBITMAP@@A 0040b0a8     ADG.obj
+ 0003:000000ac       ?HandChoose@@3PAUBITMAP@@A 0040b0ac     ADG.obj
+ 0003:000000b0       ?Music5_5@@3PAUSAMPLE@@A   0040b0b0     ADG.obj
+ 0003:000000b4       ?Music5_4@@3PAUSAMPLE@@A   0040b0b4     ADG.obj
+ 0003:000000b8       ?Music5_3@@3PAUSAMPLE@@A   0040b0b8     ADG.obj
+ 0003:000000bc       ?Music5_2@@3PAUSAMPLE@@A   0040b0bc     ADG.obj
+ 0003:000000c0       ?Music5_1@@3PAUSAMPLE@@A   0040b0c0     ADG.obj
+ 0003:000000c4       ?BigMap_7@@3PAUBITMAP@@A   0040b0c4     ADG.obj
+ 0003:000000c8       ?buffer2@@3PAUBITMAP@@A    0040b0c8     ADG.obj
+ 0003:000000cc       ?BigMap_5@@3PAUBITMAP@@A   0040b0cc     ADG.obj
+ 0003:000000d0       ?BigMap_4@@3PAUBITMAP@@A   0040b0d0     ADG.obj
+ 0003:000000d4       ?Music7_5@@3PAUSAMPLE@@A   0040b0d4     ADG.obj
+ 0003:000000d8       ?Music7_4@@3PAUSAMPLE@@A   0040b0d8     ADG.obj
+ 0003:000000dc       ?Music7_3@@3PAUSAMPLE@@A   0040b0dc     ADG.obj
+ 0003:000000e0       ?Music7_2@@3PAUSAMPLE@@A   0040b0e0     ADG.obj
+ 0003:000000e4       ?Music7_1@@3PAUSAMPLE@@A   0040b0e4     ADG.obj
+ 0003:000000e8       ?back2@@3PAUBITMAP@@A      0040b0e8     ADG.obj
+ 0003:000000ec       ?back3@@3PAUBITMAP@@A      0040b0ec     ADG.obj
+ 0003:000000f0       ?back4@@3PAUBITMAP@@A      0040b0f0     ADG.obj
+ 0003:000000f4       ?back@@3PAUBITMAP@@A       0040b0f4     ADG.obj
+ 0003:000000f8       ?seri2@@3PAUBITMAP@@A      0040b0f8     ADG.obj
+ 0003:000000fc       ?FaceOther_4@@3PAUBITMAP@@A 0040b0fc     ADG.obj
+ 0003:00000100       ?FaceOther_3@@3PAUBITMAP@@A 0040b100     ADG.obj
+ 0003:00000104       ?FaceOther_2@@3PAUBITMAP@@A 0040b104     ADG.obj
+ 0003:00000108       ?FaceOther_1@@3PAUBITMAP@@A 0040b108     ADG.obj
+ 0003:0000010c       ?bgm1@@3PAUSAMPLE@@A       0040b10c     ADG.obj
+ 0003:00000110       ?bgm2@@3PAUSAMPLE@@A       0040b110     ADG.obj
+ 0003:00000114       ?bell@@3PAUSAMPLE@@A       0040b114     ADG.obj
+ 0003:00000118       ?Other_4@@3PAUBITMAP@@A    0040b118     ADG.obj
+ 0003:0000011c       ?Other_3@@3PAUBITMAP@@A    0040b11c     ADG.obj
+ 0003:00000120       ?Other_2@@3PAUBITMAP@@A    0040b120     ADG.obj
+ 0003:00000124       ?Other_1@@3PAUBITMAP@@A    0040b124     ADG.obj
+ 0003:00000128       ?Boy@@3PAUBITMAP@@A        0040b128     ADG.obj
+ 0003:0000012c       ?Face@@3PAUBITMAP@@A       0040b12c     ADG.obj
+ 0003:00000130       ?Boy3_6_2@@3PAUBITMAP@@A   0040b130     ADG.obj
+ 0003:00000134       ?Boy3_6_1@@3PAUBITMAP@@A   0040b134     ADG.obj
+ 0003:00000138       ?BigMap@@3PAUBITMAP@@A     0040b138     ADG.obj
+ 0003:0000013c       ?seri@@3PAUBITMAP@@A       0040b13c     ADG.obj
+ 0003:00000140       ?serifu@@3PAUBITMAP@@A     0040b140     ADG.obj
+ 0003:00000144       ?Music5@@3PAUSAMPLE@@A     0040b144     ADG.obj
+ 0003:00000148       ?Music4@@3PAUSAMPLE@@A     0040b148     ADG.obj
+ 0003:0000014c       ?Bleak@@3PAUBITMAP@@A      0040b14c     ADG.obj
+ 0003:00000150       ?Music7@@3PAUSAMPLE@@A     0040b150     ADG.obj
+ 0003:00000154       ?Music6@@3PAUSAMPLE@@A     0040b154     ADG.obj
+ 0003:00000158       ?Other@@3PAUBITMAP@@A      0040b158     ADG.obj
+ 0003:0000015c       ?FaceB3_6_1@@3PAUBITMAP@@A 0040b15c     ADG.obj
+ 0003:00000160       ?FaceB3_6_2@@3PAUBITMAP@@A 0040b160     ADG.obj
+ 0003:00000164       ?buffer@@3PAUBITMAP@@A     0040b164     ADG.obj
+ 0003:00000168       ?FaceB2_4@@3PAUBITMAP@@A   0040b168     ADG.obj
+ 0003:0000016c       ?FaceB2_5@@3PAUBITMAP@@A   0040b16c     ADG.obj
+ 0003:00000170       ?FaceB1_7@@3PAUBITMAP@@A   0040b170     ADG.obj
+ 0003:00000174       ?FaceB1_4@@3PAUBITMAP@@A   0040b174     ADG.obj
+ 0003:00000178       ?FaceB1_5@@3PAUBITMAP@@A   0040b178     ADG.obj
+ 0003:0000017c       ?FaceB3_5@@3PAUBITMAP@@A   0040b17c     ADG.obj
+ 0003:00000180       ?FaceB3_7@@3PAUBITMAP@@A   0040b180     ADG.obj
+ 0003:00000184       ?FaceB3_4@@3PAUBITMAP@@A   0040b184     ADG.obj
+ 0003:00000188       ?FaceB2_7@@3PAUBITMAP@@A   0040b188     ADG.obj
+ 0003:0000018c       ?door@@3PAUSAMPLE@@A       0040b18c     ADG.obj
+ 0003:00000190       ?Girl@@3PAUBITMAP@@A       0040b190     ADG.obj
+ 0003:00000194       ?Boy1_5@@3PAUBITMAP@@A     0040b194     ADG.obj
+ 0003:00000198       ?Boy1_4@@3PAUBITMAP@@A     0040b198     ADG.obj
+ 0003:0000019c       ?Boy1_7@@3PAUBITMAP@@A     0040b19c     ADG.obj
+ 0003:000001a0       ?Boy2_5@@3PAUBITMAP@@A     0040b1a0     ADG.obj
+ 0003:000001a4       ?Boy2_4@@3PAUBITMAP@@A     0040b1a4     ADG.obj
+ 0003:000001a8       ?Boy2_7@@3PAUBITMAP@@A     0040b1a8     ADG.obj
+ 0003:000001ac       ?Boy3_5@@3PAUBITMAP@@A     0040b1ac     ADG.obj
+ 0003:000001b0       ?Boy3_4@@3PAUBITMAP@@A     0040b1b0     ADG.obj
+ 0003:000001b4       ?Boy3_7@@3PAUBITMAP@@A     0040b1b4     ADG.obj
+ 0003:000001b8       ?BigMap_5_3_1@@3PAUBITMAP@@A 0040b1b8     ADG.obj
+ 0003:000001bc       ?BigMap_5_3_2@@3PAUBITMAP@@A 0040b1bc     ADG.obj
+ 0003:000001c0       ?Girl1_6_2@@3PAUBITMAP@@A  0040b1c0     ADG.obj
+ 0003:000001c4       ?Girl1_6_1@@3PAUBITMAP@@A  0040b1c4     ADG.obj
+ 0003:000001c8       ?girl@@3PAUBITMAP@@A       0040b1c8     ADG.obj
+ 0003:000001cc       ?CubeChoose@@3PAUBITMAP@@A 0040b1cc     ADG.obj
+ 0003:000001d0       ?$Cfont_x_posi@@3HA        0040b1d0     Cfont.obj
+ 0003:000001d4       ?semi_sign@@3PAUFONT@@A    0040b1d4     Cfont.obj
+ 0003:000001d8       ?font_map_sor@@3PAPAUBITMAP@@A 0040b1d8     Cfont.obj
+ 0003:00000218       ?font_buffer@@3PAUBITMAP@@A 0040b218     Cfont.obj
+ 0003:0000021c       ?$Cfont_buf@@3PAUBITMAP@@A 0040b21c     Cfont.obj
+ 0003:00000220       ?font_load@@3PAUBITMAP@@A  0040b220     Cfont.obj
+ 0003:00000224       ?$Cfont_B@@3HA             0040b224     Cfont.obj
+ 0003:00000228       ?$Cfont_G@@3HA             0040b228     Cfont.obj
+ 0003:0000022c       ?$Cfont_R@@3HA             0040b22c     Cfont.obj
+ 0003:00000230       ?$Cfont_x@@3HA             0040b230     Cfont.obj
+ 0003:00000234       ?$Cfont_y@@3HA             0040b234     Cfont.obj
+ 0003:00000238       ?loadf@@3PAU_iobuf@@A      0040b238     Cfont.obj
+ 0003:0000023c       ?string@@3PADA             0040b23c     Cfont.obj
+ 0003:000002a0       ?cloud@@3HA                0040b2a0     Cfont.obj
+ 0003:000002a4       __dowildcard               0040b2a4     MSVCRT:wildcard.obj
+ 0003:000002a8       __newmode                  0040b2a8     MSVCRT:_newmode.obj
+ 0003:000002ac       __commode                  0040b2ac     MSVCRT:xncommod.obj
+ 0003:000002b0       __fmode                    0040b2b0     MSVCRT:xtxtmode.obj
+ 0003:000002b4       __adjust_fdiv              0040b2b4     <common>
+ 0003:000002b8       ___onexitend               0040b2b8     <common>
+ 0003:000002bc       ___onexitbegin             0040b2bc     <common>
+ 0004:00000000       __IMPORT_DESCRIPTOR_allp42 0040c000     allp:allp42.dll
+ 0004:00000014       __IMPORT_DESCRIPTOR_MSVCRT 0040c014     MSVCRT:MSVCRT.dll
+ 0004:00000028       __IMPORT_DESCRIPTOR_KERNEL32 0040c028     kernel32:KERNEL32.dll
+ 0004:0000003c       __NULL_IMPORT_DESCRIPTOR   0040c03c     allp:allp42.dll
+ 0004:0000012c       __imp__GetStartupInfoA@4   0040c12c     kernel32:KERNEL32.dll
+ 0004:00000130       __imp__GetModuleHandleA@4  0040c130     kernel32:KERNEL32.dll
+ 0004:00000134       \177KERNEL32_NULL_THUNK_DATA 0040c134     kernel32:KERNEL32.dll
+ 0004:00000138       __imp___controlfp          0040c138     MSVCRT:MSVCRT.dll
+ 0004:0000013c       __imp___except_handler3    0040c13c     MSVCRT:MSVCRT.dll
+ 0004:00000140       __imp____set_app_type      0040c140     MSVCRT:MSVCRT.dll
+ 0004:00000144       __imp____p__fmode          0040c144     MSVCRT:MSVCRT.dll
+ 0004:00000148       __imp____p__commode        0040c148     MSVCRT:MSVCRT.dll
+ 0004:0000014c       __imp___adjust_fdiv        0040c14c     MSVCRT:MSVCRT.dll
+ 0004:00000150       __imp____setusermatherr    0040c150     MSVCRT:MSVCRT.dll
+ 0004:00000154       __imp___initterm           0040c154     MSVCRT:MSVCRT.dll
+ 0004:00000158       __imp____getmainargs       0040c158     MSVCRT:MSVCRT.dll
+ 0004:0000015c       __imp___acmdln             0040c15c     MSVCRT:MSVCRT.dll
+ 0004:00000160       __imp__exit                0040c160     MSVCRT:MSVCRT.dll
+ 0004:00000164       __imp___XcptFilter         0040c164     MSVCRT:MSVCRT.dll
+ 0004:00000168       __imp___exit               0040c168     MSVCRT:MSVCRT.dll
+ 0004:0000016c       __imp___onexit             0040c16c     MSVCRT:MSVCRT.dll
+ 0004:00000170       __imp____dllonexit         0040c170     MSVCRT:MSVCRT.dll
+ 0004:00000174       __imp__fclose              0040c174     MSVCRT:MSVCRT.dll
+ 0004:00000178       __imp___ftol               0040c178     MSVCRT:MSVCRT.dll
+ 0004:0000017c       __imp__pow                 0040c17c     MSVCRT:MSVCRT.dll
+ 0004:00000180       __imp__scanf               0040c180     MSVCRT:MSVCRT.dll
+ 0004:00000184       __imp__fscanf              0040c184     MSVCRT:MSVCRT.dll
+ 0004:00000188       __imp__fseek               0040c188     MSVCRT:MSVCRT.dll
+ 0004:0000018c       __imp__fopen               0040c18c     MSVCRT:MSVCRT.dll
+ 0004:00000190       __imp___chkesp             0040c190     MSVCRT:MSVCRT.dll
+ 0004:00000194       __imp___errno              0040c194     MSVCRT:MSVCRT.dll
+ 0004:00000198       \177MSVCRT_NULL_THUNK_DATA 0040c198     MSVCRT:MSVCRT.dll
+ 0004:0000019c       __imp__textprintf_ex       0040c19c     allp:allp42.dll
+ 0004:000001a0       __imp__masked_blit         0040c1a0     allp:allp42.dll
+ 0004:000001a4       __imp__load_font           0040c1a4     allp:allp42.dll
+ 0004:000001a8       __imp__create_bitmap_ex    0040c1a8     allp:allp42.dll
+ 0004:000001ac       __imp__makecol             0040c1ac     allp:allp42.dll
+ 0004:000001b0       __imp__clear_to_color      0040c1b0     allp:allp42.dll
+ 0004:000001b4       __imp__key                 0040c1b4     allp:allp42.dll
+ 0004:000001b8       __imp__clear_bitmap        0040c1b8     allp:allp42.dll
+ 0004:000001bc       __imp___WinMain            0040c1bc     allp:allp42.dll
+ 0004:000001c0       __imp___install_allegro_version_check 0040c1c0     allp:allp42.dll
+ 0004:000001c4       __imp__install_keyboard    0040c1c4     allp:allp42.dll
+ 0004:000001c8       __imp__install_sound       0040c1c8     allp:allp42.dll
+ 0004:000001cc       __imp__set_color_depth     0040c1cc     allp:allp42.dll
+ 0004:000001d0       __imp__set_gfx_mode        0040c1d0     allp:allp42.dll
+ 0004:000001d4       __imp__gfx_driver          0040c1d4     allp:allp42.dll
+ 0004:000001d8       __imp__create_bitmap       0040c1d8     allp:allp42.dll
+ 0004:000001dc       __imp__load_bitmap         0040c1dc     allp:allp42.dll
+ 0004:000001e0       __imp__load_sample         0040c1e0     allp:allp42.dll
+ 0004:000001e4       __imp__blit                0040c1e4     allp:allp42.dll
+ 0004:000001e8       __imp__play_sample         0040c1e8     allp:allp42.dll
+ 0004:000001ec       __imp__screen              0040c1ec     allp:allp42.dll
+ 0004:000001f0       __imp__stop_sample         0040c1f0     allp:allp42.dll
+ 0004:000001f4       __imp__readkey             0040c1f4     allp:allp42.dll
+ 0004:000001f8       __imp__destroy_bitmap      0040c1f8     allp:allp42.dll
+ 0004:000001fc       __imp__destroy_sample      0040c1fc     allp:allp42.dll
+ 0004:00000200       __imp__allegro_exit        0040c200     allp:allp42.dll
+ 0004:00000204       \177allp42_NULL_THUNK_DATA 0040c204     allp:allp42.dll
+
+ entry point at        0001:0000860c
+
+ Static symbols
+
+
+FIXUPS: 8550 19 18 f 3d 1f 1c 1b 17 2f 1f 3a 5 36 16 16 f 1061 fffffede
+FIXUPS: 9690 f 33 6a 1b fffffe61 d ffffea11 18 13 1e 1e 3a 3b b 1b 11 11
+FIXUPS: 8118 3c 39 49 39 5 3b 19 65 5e 3a 3c 18 31 3a 3c 18 2c 3a 3c 18
+FIXUPS: 7bd8 17 11 1e 10 11 18 e 1e 15 49 39 39 39 3f 44 41 5 16 1b 2a
+FIXUPS: 7ec5 18 2c 12 11 1b 18 1e 17 16 1e fffff842 3a 3a b 1b 14 17 11
+FIXUPS: 78fe 10 11 18 e 1e 15 56 3a 11 11 1e 10 11 18 e 1e 1c 27 3a 3a
+FIXUPS: 7b9e b 1b fffff86b 1e 1c 27 3a 3a 3a b 1b 14 17 11 1e 14 13 11
+FIXUPS: 760e e 1e 12 62 3a 11 11 1e 10 11 18 e 1e 1c 27 fffff919 11 11
+FIXUPS: 7123 18 3d d 11 18 3c 12 11 18 14 11 18 e 1b 1e 22 a a 1c 10 63
+FIXUPS: 73a8 11 11 1e 10 11 18 fffff91a 1c 1c 11 1e 15 43 39 39 5 11 11
+FIXUPS: 6eab 18 1f 26 39 e 1b 18 a 1f 27 3a 11 11 1b e 18 e 14 1b fffff929
+FIXUPS: 69f1 11 1e 15 45 39 39 13 3f 15 11 1e e 18 e 1e e 18 e 1e e 18
+FIXUPS: 6c5a 1e e 18 1c 26 16 11 1b fffff9cb 11 1e 15 1b 11 18 e 1e e 18
+FIXUPS: 67d5 1e e 18 17 1b 14 11 1e 17 1a 1b 18 11 18 1c 27 16 11 1b 19
+FIXUPS: 632a 50 39 39 11 11 1e 15 11 18 e 1e e 18 e 1e e 18 1c 26 16 11
+FIXUPS: 6592 19 1c 1c 11 1e 12 46 39 39 fffff953 18 1e 5 1d 18 1f 5 1a
+FIXUPS: 60f5 1f 5 1c 26 39 16 11 18 3c 11 11 18 18 13 11 18 12 11 18 e
+FIXUPS: 62fe 1c fffff9d1 17 1a 1a 1a 11 18 e 1e e 1e 17 1a 11 1b 18 e 1e
+FIXUPS: 5e80 18 1c 12 44 39 39 5 11 11 18 a 17 38 fffff98b 1c 13 18 e 1e
+FIXUPS: 5a20 18 e 1e e 18 e 1e e 18 e 1e e 18 1b 12 4f 39 39 16 1b 2a b
+FIXUPS: 5c9d 1b 18 fffff95d 1e 14 1a 1a 11 1b e 1e e 18 1c f 4e 39 39 11
+FIXUPS: 581e 1e 15 1b 11 18 e 1e e 18 1c 11 1b 1f 1c fffff9a7 16 11 18
+FIXUPS: 535a 17 3c 1c 5 1a 1b 5 1a 1c 5 13 44 39 39 16 13 11 1e e 18 e
+FIXUPS: 55b6 17 11 1b e 18 fffff5f5 19 18 20 50 31 3b 5 3a 3d 5 3a 3b 5
+FIXUPS: 4e58 19 18 20 184 1e 1e 46 3a 51 39 5 3b 19 81 4d 39 39 fffff364
+FIXUPS: 4688 33 10 5a 66 3b 5 39 3b 5 3c 18 1e 26 59 3b 32 3b 5 39 3b 5
+FIXUPS: 4a97 18 3c 31 3d 5 3a 3b 5 fffff4aa 19 19 18 19 19 18 19 19 18
+FIXUPS: 416d 43 1c 38 35 14d 19 16 16 d 4d 3c 3a 18 d 55 66 3b 5 39 3b
+FIXUPS: 4634 fffff47d 45 3f 3f 49 3f 45 3f 3f 49 3f 45 3f 3f 49 3f 3f 3f
+FIXUPS: 3f29 19 18 19 19 18 19 19 18 19 19 18 19 19 fffff55c 37 1e 1e 1e
+FIXUPS: 3675 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 2f
+FIXUPS: 3927 3f 45 3f 3f 49 fffff512 3a 3b 19 f 15 84 3d 3d 2e 3c 3c 18
+FIXUPS: 3201 15 47 63 3c 2f 3c 3b 19 f 15 8b 3d 3d 2e 3c 3c 18 f fffff389
+FIXUPS: 2952 f 15 76 19 3d 3c 3b 19 f 15 84 3d 3d 2e 3c 3c 18 f 1e 10 88
+FIXUPS: 2db4 2e 39 3c 18 f 2f 10 8a fffff315 3b 19 49 3d 3d 2e 34 3c 19
+FIXUPS: 243f 8b 3a 3d 2e 36 3c 18 f 15 8a 3a 3d 3c 3b 19 f 15 85 3d 2e
+FIXUPS: 28fe fffff515 1c 1c 1c 1c 1c 1c 1c 1c 1c 1c 1c 1c 1c 1c 1c 1c 1c
+FIXUPS: 2008 19 19 25 b f 12 50 d 55 44 3b 3d 2e fffff834 1e 1e 1e 1e 1e
+FIXUPS: 1b0f 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e
+FIXUPS: 1d85 1e 1c 1c 1c fffff842 18 19 19 18 19 19 18 19 19 5d 62 21 21
+FIXUPS: 1839 21 21 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e fffff810
+FIXUPS: 1269 1c 1c 37 31 3a 2e 35 3d 26 32 34 3d 27 3b 18 d d d d d d d
+FIXUPS: 158e d d 1f f 19 18 19 7b5d 70 62 e 5b 45 62 62 57 44 40 35 1b
+FIXUPS: 94fb ffff7b3a 13 f 18 14 22 5 5d 1e 1e 1e 1e 1e 1e 1e 1e 1e 1c
+FIXUPS: 8772 1b 23 19 1c a f 71 1e 1e 1e 1e 1e 1e 1e 1e 1e 14 3f 49 c 10
+FIXUPS: 8d7d 34 157 1e 1a 2f 59 12 e 6c

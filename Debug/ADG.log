@@ -1,0 +1,266 @@
+﻿2011/01/16 11:53:49 にビルドを開始しました。
+ノード 2 上のプロジェクト "C:\Users\cat\デスクトップ\ADG\ADG.vcxproj" (build ターゲット)。
+InitializeBuildStatus:
+  "Debug\ADG.unsuccessfulbuild" のタッチ タスクを実行しています。
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt chap1.cpp chap2.cpp text.cpp
+  text.cpp
+  chap2.cpp
+c:\users\cat\デスクトップ\adg\chap2.cpp(17): error C2065: 'back3' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(17): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(18): error C2065: 'serifu' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(18): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(18): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(18): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(18): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(18): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(19): error C2065: 'girl' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(19): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(20): error C2065: 'seri2' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(20): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(21): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(21): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(21): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(21): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(21): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(22): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(26): error C2065: 'bell' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(40): error C2065: 'back3' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(40): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(41): error C2065: 'serifu' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(41): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(41): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(41): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(41): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(41): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(42): error C2065: 'seri2' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(42): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(43): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(43): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(43): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(43): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(43): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(44): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(61): error C2065: 'back3' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(61): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(62): error C2065: 'boy' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(62): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(62): error C2065: 'boy' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(62): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(62): error C2065: 'boy' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(62): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(63): error C2065: 'serifu' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(63): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(63): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(63): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(63): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(63): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(64): error C2065: 'girl' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(64): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(65): error C2065: 'seri2' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(65): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(66): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(66): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(66): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(66): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(66): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(67): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(77): error C2065: 'bell' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(85): error C2065: 'back4' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(85): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(86): error C2065: 'serifu' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(86): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(86): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(86): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(86): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(86): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(87): error C2065: 'girl' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(87): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(88): error C2065: 'seri2' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(88): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(89): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(89): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(89): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(89): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(89): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(90): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(106): error C2065: 'back4' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(106): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(107): error C2065: 'boy' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(107): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(107): error C2065: 'boy' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(107): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(107): error C2065: 'boy' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(107): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(108): error C2065: 'serifu' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(108): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(108): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(108): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(108): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(108): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(109): error C2065: 'girl' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(109): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(110): error C2065: 'seri2' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(110): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(111): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(111): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(111): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(111): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap2.cpp(111): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+c:\users\cat\デスクトップ\adg\chap2.cpp(111): fatal error C1003: プログラム内のエラーが 100 個を超えました。コンパイルは中断されます。
+  chap1.cpp
+c:\users\cat\デスクトップ\adg\chap1.cpp(11): error C2065: 'chime' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(15): error C2065: 'back' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(15): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(16): error C2065: 'boy' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(16): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(16): error C2065: 'boy' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(16): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(16): error C2065: 'boy' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(16): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(17): error C2065: 'serifu' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(17): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(17): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(17): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(17): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(17): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(18): error C2065: 'girl' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(18): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(19): error C2065: 'seri' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(19): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(20): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(20): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(20): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(20): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(20): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(21): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(27): error C2065: 'back' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(27): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(28): error C2065: 'boy' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(28): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(28): error C2065: 'boy' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(28): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(28): error C2065: 'boy' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(28): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(29): error C2065: 'serifu' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(29): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(29): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(29): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(29): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(29): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(30): error C2065: 'girl' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(30): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(31): error C2065: 'seri' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(31): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(32): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(32): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(32): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(32): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(32): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(33): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(50): error C2065: 'back' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(50): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(51): error C2065: 'boy' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(51): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(51): error C2065: 'boy' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(51): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(51): error C2065: 'boy' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(51): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(52): error C2065: 'serifu' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(52): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(52): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(52): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(52): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(52): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(53): error C2065: 'girl' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(53): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(54): error C2065: 'seri' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(54): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(55): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(55): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(55): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(55): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(55): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(56): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(73): error C2065: 'back' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(73): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(74): error C2065: 'boy' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(74): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(74): error C2065: 'boy' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(74): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(74): error C2065: 'boy' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(74): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(75): error C2065: 'serifu' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(75): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(75): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(75): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(75): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(75): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(76): error C2065: 'seri' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(76): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(77): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(77): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(77): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(77): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(77): error C2227: '->h' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+          型は ''unknown-type'' です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(78): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(95): error C2065: 'back' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(95): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(96): error C2065: 'serifu' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(96): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(96): error C2065: 'buffer' : 定義されていない識別子です。
+c:\users\cat\デスクトップ\adg\chap1.cpp(96): error C2227: '->w' : 左側がクラス、構造体、共用体、ジェネリック型へのポインターではありません。
+c:\users\cat\デスクトップ\adg\chap1.cpp(96): fatal error C1003: プログラム内のエラーが 100 個を超えました。コンパイルは中断されます。
+  コードを生成中...
+プロジェクト "C:\Users\cat\デスクトップ\ADG\ADG.vcxproj" (build ターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+経過時間 00:00:03.97
